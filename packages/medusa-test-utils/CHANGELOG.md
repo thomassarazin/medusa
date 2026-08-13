@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.19.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/medusa@2.19.1
+  - @medusajs/core-flows@2.19.1
+  - @medusajs/framework@2.19.1
+
 ## 2.19.0
 
 ### Patch Changes
